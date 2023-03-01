@@ -3,9 +3,12 @@ from ia import FirstIA
 
 class Root:
     def __init__(self):
+        # PREPARAMOS LA RED NEURONAL
         inches_list = [1, 3, 5, 100, 105, 107]
         IA = FirstIA(inches=inches_list)
+        # ENTRENAMOS LA RED
         IA.train(epochs=10000, verbose=False)
+        # DEFINIMOS VALORES
         self.IA = IA
         self.inches = 0
 
