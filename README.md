@@ -15,8 +15,8 @@ Once the neural network has been trained, the model is saved and can be reused i
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+Converting 100 inches to cm
+![Screenshoot 1](https://user-images.githubusercontent.com/38173795/222256270-f053f473-abd0-4b73-aa27-9bac7810bc01.png)
 
 ## Files
 
